@@ -11,7 +11,7 @@ import javax.swing.BorderFactory;
 import javax.swing.border.Border;
 import javax.swing.border.TitledBorder;
 import javax.swing.border.EtchedBorder;
-
+//hello
 class clientThread implements Runnable {
     protected Socket         socket;
     protected PrintWriter    out;
